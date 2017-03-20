@@ -1,2 +1,2 @@
 # URI-Online-Judge
-Questões Resolvidas 
+Problemas Resolvidas 
